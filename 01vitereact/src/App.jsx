@@ -1,7 +1,7 @@
+import Ansh from "./ansh";
 function App() {
   return (
-    <h1>learning react with vite </h1>
-  )
+    <Ansh/>  )
 }
 
-export default App
+export default App;
